@@ -12,6 +12,9 @@
 1. terraform init
 2. terraform plan
 3. terraform apply
-4. terraform destroy    
+
+## To Destroy the resource use any of the following command
+1. terraform destroy --auto-approve 
+2. terraform destroy
 
 Thats it !!
